@@ -38,7 +38,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency("clamp", "~> 1.0.0") # license: MIT
 
   # For sourcing from pleaserun
-  spec.add_dependency("pleaserun", "~> 0.0.29") # license: Apache 2
+  spec.add_dependency("pleaserun", "0.0.32042") # license: Apache 2
 
   spec.add_dependency("stud")
 
